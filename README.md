@@ -5,9 +5,9 @@ for termux only,not run with sudo
 -----------------------—-----------------------
 
 
-git clone https://github.com/ish6/rsfinstall
-cd rsfinstall 
-chmod +x install.sh
+git clone https://github.com/ish6/rsfinstall &&
+cd rsfinstall &&
+chmod +x install.sh &&
 ./install.sh 
 
 
